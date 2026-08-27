@@ -6,11 +6,9 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>4.1.1</version>
-<<<<<<< Updated upstream
-		<relativePath/> <!--before lookup parent from repository -->
-=======
-		<relativePath/> <!-- lookup parent from repository after-->
->>>>>>> Stashed changes
+
+		<relativePath/> <!--before lookup parent from repository after-->
+
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
