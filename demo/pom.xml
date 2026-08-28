@@ -7,7 +7,7 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>4.1.1</version>
 
-		<relativePath/> <!--before lookup parent from repository after-->
+		<relativePath/> <!before lookup parent from repository -->
 
 	</parent>
 	<groupId>com.example</groupId>
